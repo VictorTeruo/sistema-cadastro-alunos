@@ -31,6 +31,7 @@ O objetivo é aplicar conceitos de:
 sistema-cadastro-alunos/
 ├── README.md
 ├── index.html
+├── login.html
 ├── css/
 │   └── style.css
 ├── js/
@@ -49,6 +50,8 @@ sistema-cadastro-alunos/
 - Cadastro de alunos;
 - Exibição dos alunos cadastrados;
 - Validação básica dos campos;
+- Seleção de curso;
+- Página de login;
 - Interface responsiva.
 
 ## Branches
